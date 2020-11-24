@@ -12,10 +12,17 @@
 
 1. clone this repo
 ```
-https://github.com/marwanamr3/DIRS21_MenuTask.git
+https://github.com/marwanamr3/MenuTask.git
 ```
 2. Install MongoDb locally using this link:
 https://www.mongodb.com/download-center/community
+
+3. Install NuGet Packages:
+
+- MongoDB.Driver
+- MongoDB.Bson
+
+4. Run the solution.
 
 ## MongoDB Configuration
 **Connection String:** 
